@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+p{
+    display: inline-block;
+}
+
+li{
+    list-style: none;
+}
+.breadcrumb {
+    background-color: #e9ecef;
+    padding: 5px 19px;
+    border-radius: 5px;
+}
+.menu-logo{
+    
+    padding: 2px 60px;
+    
+}
+.headerSection{
+    cursor: pointer;
+    background-color: #e3f2fd;
+}
+
+.menu {
+    padding: 25px 0px;
+    margin-left: -82px;
+}
+.menu ul{
+    display: inline-block;
+}
+.menu ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 38px;
+    font-size: 16px;
+}
+.menu ul li a{
+    margin: ;
+    padding: ;
+}
+.tooltips {
+    margin-left: 150px;
+}
+.menu ul li a:hover{}
+/* --------------------------- */
+.accordioSection {
+    width: 450px;
+}
